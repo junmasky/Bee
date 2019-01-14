@@ -5,3 +5,4 @@ bar.add("服装", ["衬衫", "羊毛衫", "雪纺衫", "裤子", "高跟鞋", "�
 # bar.print_echarts_options() # 该行只为了打印配置项，方便调试时使用
 bar.render()    # 生成本地 HTML 文件
 
+# 修改的内容
